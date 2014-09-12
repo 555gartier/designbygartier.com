@@ -1,32 +1,7 @@
-title: Design by Gartier [Brano Hlavac]
-description: Gartier a.k.a. Brano Hlavac. Newage digital artist from Slovakia with famous and modern breathtaking styles. Come into new digital world of Gartier...
-image: https://www.dropbox.com/s/ldrie81nz62d64u/EXANDER.jpg?dl=0
+title:             Design by Gartier [Brano Hlavac]
+description:       Gartier a.k.a. Brano Hlavac. Newage digital artist from Slovakia with famous and modern breathtaking styles. Come into new digital world of Gartier...
+image:             https://www.dropbox.com/s/ldrie81nz62d64u/EXANDER.jpg?dl=0
 
-brands: 
-audi 
-citroen 
-diesel 
-koss 
-playboy 
-british airways 
-nivea 
-vouge 
-infiniti cars 
-orange 
-ford
-
-exhibitions: 
-dubai 
-barcelona 
-prague 
-dublin 
-new york
-
-awards and prices:
-andy warhol price 
-dc comics
-top 100 rank digital artist
-DA - newage artist
-vogue art gen
-citroen price
-vectroave price
+brands:            audi, citroen, diesel, koss, playboy, british airways, nivea, vouge, infiniti cars, orange, ford
+exhibitions:       dubai, barcelona, prague, dublin, new york
+awards and prices: andy warhol price, dc comics, top 100 rank digital artist, DA - newage artist, vogue art gen, citroen price, vectroave price

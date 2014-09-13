@@ -1,0 +1,14 @@
+/// %d will be replace dynamicaly with number
+
+//  PAGINATION
+    pagination_reachedEnd: You've reached the end.
+    pagination_worksLeft:  %d works left
+    pagination_labelPrev:  -Back
+    pagination_labelNext:  +Next
+    
+//  COPYRIGHT
+    copyright: Please do not reproduce without permission. All rights reserved. &copy; %d Brano Hlavac
+    
+//  NO JAVASCRIPT TURNED ON
+    noscript_label:   Load images...
+    noscript_explain: Reason you are seeing this is that you have javaScript turned off.

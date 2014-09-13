@@ -1,6 +1,7 @@
 /// %d, %s placeholders will be replaced dynamicaly on page generation with current data
 
 //  WORKS
+    work_allWorks:             Works
     work_image_alternate_text: %s by Gartier
 
 //  PAGINATION

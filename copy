@@ -7,6 +7,7 @@
 
 //  PAGINATION
     pagination_reachedEnd: You've reached the end.
+    pagination_workLeft:   1 works left
     pagination_worksLeft:  %d works left
     pagination_labelPrev:  - Back
     pagination_labelNext:  + Next

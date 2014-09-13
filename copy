@@ -1,4 +1,7 @@
-/// %d will be replace dynamicaly with number
+/// %d, %s placeholders will be replaced dynamicaly on page generation with current data
+
+//  WORKS
+    work_image_alternate_text: %s by Gartier
 
 //  PAGINATION
     pagination_reachedEnd: You've reached the end.

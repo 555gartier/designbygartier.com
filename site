@@ -5,5 +5,8 @@
     works per page: 7
     author:         Brano Hlavac
 
+//  WEB PAGE TITLE SETTINGS
+    titleSingular:  %s \\ %s
+
 //  Goodle Analytics
     ga_code:        UA-54781924-1
